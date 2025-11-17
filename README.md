@@ -1,4 +1,4 @@
-# Studnet database using C
+# Student database using C
 
 A simple terminal-based student database system for **Govt.Polytechnic College, Nizamabad**, written in C.
 The program supports student record entry, viewing, and updates for multiple branches
