@@ -1,10 +1,10 @@
 # Studnet database using C
 
-A simpple terminal-based student database system for **Govt.Polytechnic College, Nizamabad**, written in C.
-The program supports student  record entry, viewing, and updates for multiple branches.
+A simple terminal-based student database system for **Govt.Polytechnic College, Nizamabad**, written in C.
+The program supports student record entry, viewing, and updates for multiple branches
 
 ## Features
--Add student records branch-wise
+- Add student records branch-wise
 - View student records stored in files
 - Append new records to existing files
 - Uses file handling in C('.txt' files)
@@ -28,3 +28,5 @@ The program supports student  record entry, viewing, and updates for multiple br
 ## Requriments
 - GCC Compalier (Linux/Mac) or Windows(VS code)
 - Git installed on your system
+
+---
